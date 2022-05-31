@@ -26,7 +26,7 @@ rec  {
       "--enable-languages=c,c++"
     ];
 
-    deps = [ mpfr gmp m4 mpc pkgs.libtool ];
+    deps = [ mpfr gmp m4 mpc ];
     checkPhase = null;
     debug = true;
   };
