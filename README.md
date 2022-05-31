@@ -2,6 +2,8 @@
 
 This project focuses on laying out architecture for new generation nix builders.
 
+[Examples](/example.nix)
+
 Features:
 - Based on nix modules system
 - **BASH BE NO MORE** Currently this project uses ruby instead of bash since it is a powerhouse of a language and is nice and simple to bootstrap
